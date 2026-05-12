@@ -6,6 +6,8 @@ An interactive fraud risk monitoring dashboard analyzing patterns, trends, and r
 > **Purpose:** Academic portfolio project demonstrating fraud risk analysis and regulatory monitoring frameworks
 
 ---
+## 🚀 Live Demo
+**[▶ Try the app here](https://navyabehl-rbi-fraud-dashboard.streamlit.app)**
 
 ## 🎯 Project Motivation
 
